@@ -22,14 +22,16 @@
                     <h5 class="black-text" style="text-align: center">Login</h5>
                     <div class="row">
                         <div class="input-field col offset-s3 s6">
-                            <input placeholder="Username" id="first_name" type="text" />
-                            <label for="first_name">Username</label>
+                                      <label >Username</label>
+                            <input placeholder="Username" id="username" name="username" type="text" />
+                  
                         </div>
                     </div>
                     <div class="row">
                         <div class="input-field col offset-s3  s6">
-                            <input placeholder="Password" id="last_name" type="text" />
-                            <label for="last_name">Password</label>
+                                    <label >Password</label>
+                            <input placeholder="Password" id="password" name="password" type="text" />
+                    
                         </div>
                     </div>
                     <div class="row">
@@ -41,5 +43,24 @@
             </div>
         </div>
     </form>
+    <script>
+        $(document).ready(function () {
+            $("#form1").validate({
+                rules: {
+                    username: {
+
+                        required:true
+                    },
+                    password: {
+
+
+                        required:true
+                    }
+
+
+                }
+            });
+        });
+</script>
 </body>
 </html>
