@@ -1,0 +1,5 @@
+C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer.Main\bin\Debug\Corer.Main.dll
+C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer.Main\bin\Debug\Corer.Main.pdb
+C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer.Main\obj\Debug\Corer.Main.csprojResolveAssemblyReference.cache
+C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer.Main\obj\Debug\Corer.Main.dll
+C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer.Main\obj\Debug\Corer.Main.pdb
