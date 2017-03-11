@@ -22,3 +22,4 @@ C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer\obj\Debug\Corer.dll
 C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer\obj\Debug\Corer.pdb
 C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer\bin\Corer.Main.dll
 C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer\bin\Corer.Main.pdb
+C:\Users\Swornim Nepal\Desktop\WAPI\webapi\WAPI\Corer\Corer\bin\Corer.dll.config
